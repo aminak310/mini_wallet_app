@@ -1,0 +1,8 @@
+# Force GitHub to detect Dart correctly
+*.dart linguist-language=Dart
+
+# Optional (clean language detection)
+*.java linguist-vendored
+*.kt linguist-vendored
+*.cpp linguist-vendored
+*.h linguist-vendored
